@@ -1,4 +1,4 @@
-﻿.website__link {
+﻿.place__website-link {
   width: 456px;
   height: 22px;
   font-style: normal;
@@ -11,6 +11,6 @@
   opacity: 1;
 }
 
-.website__link:hover {
+.place__website-link:hover {
   opacity: .6;
 }
