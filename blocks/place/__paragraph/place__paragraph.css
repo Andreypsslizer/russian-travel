@@ -9,10 +9,14 @@
   color: #FFFFFF;
 }
 
+.place__paragraph:last-of-type {
+  padding: 0;
+}
+
 @media screen and (max-width: 1023px) {
   .place__paragraph {
     font-size: 16px;
     line-height: 26px;
-    padding: 0 16px;
+    padding: 0;
   }
 }
